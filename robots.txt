@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iruvuefe.github.io/Bjb/sitemap_index.txt
+Sitemap: https://iruvuefe.github.io/MTY/sitemap_index.txt
+Sitemap: https://iruvuefe.github.io/XeE/sitemap_index.txt
+Sitemap: https://iruvuefe.github.io/ure/sitemap_index.txt
